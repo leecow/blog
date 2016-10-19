@@ -1,10 +1,12 @@
-# .NET Core 1.0.2
+# Announcing the October 2016 Update for .NET Core 1.0
 
-We are releasing an update today which addresses an issue installing on a clean macOS Sierra system. The change is limited to the macOS installer. They are no changes in the runtime or tools. .NET Core 1.0.1 remains the latest release for Windows and Linux.
+The title may be a bit grand for what's included in this month's update but it was important for folks encountering this specific issue. Look for more next month.
 
-You can download the updated macOS installer from [blah](blah).
+We are releasing an update today which addresses an issue installing on a clean macOS Sierra system. The change is limited to the macOS installer. There are no changes in the runtime or tools; .NET Core 1.0.1 remains the latest release for Windows and Linux.
 
-For more information on the change, please see the [.NET Core 1.0.2 release notes](blah).
+You can download the updated macOS SDK installer [here](https://go.microsoft.com/fwlink/?LinkID=831679).
+
+For more information on the change, please see the [.NET Core 1.0.2 release notes](https://github.com/dotnet/core/releases/tag/1.0.2).
 
 If you are having trouble, we want to know about it. Please report issues on [GitHub issue – core xxx](blah).
 
